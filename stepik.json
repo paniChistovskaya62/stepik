@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 {key:value}
 {key:value}
+=======
+{"key":"value"}
+>>>>>>> 9b14d04ce8002037bb57eb6217077e0fc339aed4
 =======
 {"key":"value"}
 >>>>>>> 9b14d04ce8002037bb57eb6217077e0fc339aed4
